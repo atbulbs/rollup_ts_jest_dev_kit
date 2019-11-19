@@ -5,5 +5,8 @@ a project build kit with `rollup`, `TypeScript`, `webpack`, `jest` for quick ts-
 - [x] `All In TS` supported
 - [x] `dev-server` supported
 - [x] `*.d.ts` files auto generated
+- [ ] resolve jest-ts warning
+- [ ] precommit-check
 - [ ] banner
-- [ ] jest-ts warning: cannot find name 'test'
+- [ ] ts-lint
+- [ ] types define docs optimization
