@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "target": "es3",
+    "outDir": "bin-debug",
+    "experimentalDecorators": true,
+    "lib": [
+      "es5",
+      "dom",
+      "es2015.promise",
+      "esnext"
+    ],
+    "types": ["node", "jest"],
+    "declaration": true,
+    "declarationDir": "lib/types"
+  },
+  "include": [
+    "src",
+    "test"
+  ]
+}
