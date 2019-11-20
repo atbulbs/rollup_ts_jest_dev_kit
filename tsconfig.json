@@ -11,11 +11,13 @@
       "esnext"
     ],
     "types": ["node", "jest"],
+    "typeRoots": ["./src/types", "node_modules/@types"],
     "declaration": true,
     "declarationDir": "lib/types"
   },
   "include": [
     "src",
-    "test"
+    "test",
+    "./store2.d.ts"
   ]
 }

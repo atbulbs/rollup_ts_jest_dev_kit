@@ -5,7 +5,7 @@ a project build kit with `rollup`, `TypeScript`, `webpack`, `jest` for quick ts-
 - [x] `All In TS` supported
 - [x] `dev-server` supported
 - [x] `*.d.ts` files auto generated
-- [ ] resolve jest-ts warning
+- [x] resolve jest-ts warning
 - [ ] precommit-check
 - [ ] banner
 - [ ] ts-lint
